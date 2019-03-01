@@ -1,3 +1,4 @@
+#Se le añade comentario
 print("Los quince primeros números 15 impares negativos: ")
 num=-1
 while True:
